@@ -1,0 +1,1 @@
+# use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters.js
